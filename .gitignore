@@ -18,3 +18,7 @@ __pycache__/
 
 # Local development files
 *.log 
+
+# Data files
+data/*
+!data/.gitkeep 
